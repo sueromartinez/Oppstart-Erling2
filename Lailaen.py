@@ -49,7 +49,7 @@ elif Choice3 == "B":
    print("Du har valgt B.")
 else:
  print("Du har valgt A.")
- pass
+ 
  
 # Sluttresultat 
  print("Resultatene av valgene dine:")
